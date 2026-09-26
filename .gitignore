@@ -6,14 +6,15 @@ ENV/
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-DATA/
+# Ignore large derived data (regenerate via notebooks 01 and 03)
+Data/processed/
+Data/features/
+
+# Ignore data files by extension, except small tracked reference inputs
 *.csv
-*.txt
 *.db
 *.parquet
-
-
-
+!Data/raw/*.csv
 
 # Ignore operating system system files
 Thumbs.db
