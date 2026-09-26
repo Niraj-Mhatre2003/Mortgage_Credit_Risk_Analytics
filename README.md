@@ -93,5 +93,5 @@ Raw Freddie Mac data is not included in this repository, since their terms of us
 
 ## Authors
 
-Niraj Mhatre, github.com/Niraj-Mhatre2003
-Manya Gupta, github.com/manyagupta-21
+- Niraj Mhatre, github.com/Niraj-Mhatre2003
+- Manya Gupta, github.com/manyagupta-21
